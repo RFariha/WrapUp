@@ -1,0 +1,48 @@
+header{
+	background-color:	#4B0082;
+	height: 100vh;
+	background-size: cover;
+	text-align: center;
+	height: 200px;
+}
+
+.title{
+	position: absolute;
+	top: 15%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}
+.title h1{
+	color: #fff;
+	font-size: 50px;
+font-family: Helvetica;
+}
+
+.shirt{
+	display: block;
+	float: left;
+	width: 32.1%;
+	background-color: #6495ED;
+	padding: 5px;
+
+	transition:30s;
+	text-align: center;
+  	text-decoration: none;
+	color: white;
+	
+}
+
+.started{
+  
+
+  color: #0000CD;
+ 	margin-top:50px;
+  text-align: center;
+  text-decoration: none;
+  padding-left: 10px;
+  font-size: 16px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  align-items: center;
+  justify-content: center;
+}

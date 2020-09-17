@@ -1,0 +1,28 @@
+header{
+	background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url("womanphone.jpg");
+	height: 50vh;
+	background-size: cover;
+	background-position: center;
+	height: 500px;
+	width:100%;
+	display: inline-block;
+
+	 background-position: 0px 0px;
+}
+
+.title{
+	position: absolute;
+	top: 40%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}
+.title h1{
+	color: #fff;
+	font-size: 70px;
+}
+
+*{
+	margin: 1px;
+	padding: 0;
+	font-family: sans-serif;
+}

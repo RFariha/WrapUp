@@ -1,0 +1,61 @@
+header{
+	background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url("boro building.png");
+	height: 100vh;
+	background-size: cover;
+	
+	height: 450px;
+	
+	
+	 background-position: 0px 0px;
+}
+
+.title{
+	position: absolute;
+	top: 35%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}
+.title h1{
+	color: #fff;
+	font-size: 40px;
+}
+
+.likha{
+	text-align:center;
+	font-family: sans-serif;
+}
+.pant{
+	display: block;
+	float: left;
+	width: 32.1%;
+	background-color: #6495ED;
+	padding: 5px;
+	
+	transition:30s;
+	text-align: center;
+  	text-decoration: none;
+	color: white;
+	
+}
+
+.happy{float:left;}
+.happy1{float:right;
+width: 300px;
+padding-top:100px;
+background-color: #87CEFA;
+padding-bottom:119px;
+padding-right:38px ;
+padding-left:2px;}
+
+.freq{
+	float:left;
+	margin-right:108px;
+	padding-bottom:138px;
+
+	/*padding-right:30px;*/
+	background-color: #191970;
+}
+
+.freq1{
+background-color: #FFB6C1;
+}
